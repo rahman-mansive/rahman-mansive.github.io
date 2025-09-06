@@ -1,8 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- GitHub Pages Homepage -->
   <url>
     <loc>https://rahman-mansive.github.io/</loc>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Social Profiles in preferred order -->
+  <url>
+    <loc>https://www.facebook.com/rahman.mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.instagram.com/rahman.mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tiktok.com/@rahman.mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.snapchat.com/@rahman.mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://x.com/rahman_mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.threads.com/@rahman.mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.reddit.com/user/rahman_mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pin.it/1KRBL5ECz</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://open.spotify.com/user/31rmbl6qca53p4anfzdeybbvzx3i?si=95dd2429513f4486</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/rahman-mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.linkedin.com/in/rahman-mansive</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
